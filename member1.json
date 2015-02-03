@@ -1,0 +1,30 @@
+{
+"name": "10.20.20.1:80",
+
+"partition": "Common",
+
+"fullPath": "/Common/10.20.20.1:80",
+"address": "10.20.20.1",
+
+"connectionLimit": 0,
+
+"dynamicRatio": 1,
+
+"fqdn": {
+"autopopulate": "disabled"
+},
+
+"inheritProfile": "enabled",
+
+"logging": "disabled",
+
+"monitor": "default",
+
+"priorityGroup": 0,
+
+"rateLimit": "disabled",
+
+"ratio": 1,
+
+"session": "user-enabled"
+}

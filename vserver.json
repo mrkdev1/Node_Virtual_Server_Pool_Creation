@@ -1,0 +1,57 @@
+{
+"name": "vs_1",
+
+"partition": "Common",
+
+"fullPath": "/Common/vs_1",
+
+"addressStatus": "yes",
+
+"autoLasthop": "default",
+
+"cmpEnabled": "yes",
+
+"connectionLimit": 0,
+
+"destination": "/Common/10.10.10.100:80",
+"enabled": true,
+
+"gtmScore": 0,
+
+"ipProtocol": "tcp",
+"mask": "255.255.255.255",
+
+"mirror": "disabled",
+
+"mobileAppTunnel": "disabled",
+
+"nat64": "disabled",
+
+"pool": "/Common/pool_1",
+
+"rateLimit": "disabled",
+
+"rateLimitDstMask": 0,
+
+"rateLimitMode": "object",
+
+"rateLimitSrcMask": 0,
+
+"source": "0.0.0.0/0",
+
+"sourceAddressTranslation": {
+"type": "none"
+},
+
+"sourcePort": "preserve",
+
+"synCookieStatus": "not-activated",
+
+"translateAddress": "enabled",
+
+"translatePort": "enabled",
+
+"vlansDisabled": true,
+
+"vsIndex": 3
+}
